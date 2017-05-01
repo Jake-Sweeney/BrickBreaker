@@ -1,0 +1,1362 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   ATI
+    VRAM:     1777 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.321 seconds
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: J:\Dev\UnityProjects\Brick Breaker\Brick Breaker_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.746311 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: efc -> priority: 1 
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.800090 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.566622 ms (FindLiveObjects: 0.147644 ms CreateObjectMapping: 0.090933 ms MarkObjects: 0.296266 ms  DeleteObjects: 0.022977 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.838444 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.474222 ms (FindLiveObjects: 0.062577 ms CreateObjectMapping: 0.046933 ms MarkObjects: 0.327066 ms  DeleteObjects: 0.029333 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.792000 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.860444 ms (FindLiveObjects: 0.129066 ms CreateObjectMapping: 0.030311 ms MarkObjects: 0.672711 ms  DeleteObjects: 0.018088 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.819377 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.473733 ms (FindLiveObjects: 0.096800 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.310933 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.770488 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.502088 ms (FindLiveObjects: 0.061111 ms CreateObjectMapping: 0.043511 ms MarkObjects: 0.361777 ms  DeleteObjects: 0.026400 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.721600 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.570044 ms (FindLiveObjects: 0.066977 ms CreateObjectMapping: 0.044977 ms MarkObjects: 0.440977 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.821333 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.638000 ms (FindLiveObjects: 0.106088 ms CreateObjectMapping: 0.039600 ms MarkObjects: 0.455155 ms  DeleteObjects: 0.027866 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.811555 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.453688 ms (FindLiveObjects: 0.037155 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.358355 ms  DeleteObjects: 0.024444 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.710355 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.636044 ms (FindLiveObjects: 0.086533 ms CreateObjectMapping: 0.026888 ms MarkObjects: 0.503066 ms  DeleteObjects: 0.009288 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.813511 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.611111 ms (FindLiveObjects: 0.097777 ms CreateObjectMapping: 0.041555 ms MarkObjects: 0.393066 ms  DeleteObjects: 0.021022 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575422 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.562222 ms (FindLiveObjects: 0.067466 ms CreateObjectMapping: 0.028844 ms MarkObjects: 0.427288 ms  DeleteObjects: 0.028844 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.742622 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.352000 ms (FindLiveObjects: 0.043022 ms CreateObjectMapping: 0.026400 ms MarkObjects: 0.266933 ms  DeleteObjects: 0.007333 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.802266 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.559777 ms (FindLiveObjects: 0.065511 ms CreateObjectMapping: 0.112444 ms MarkObjects: 0.352000 ms  DeleteObjects: 0.021022 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.789066 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.464444 ms (FindLiveObjects: 0.038133 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.373511 ms  DeleteObjects: 0.020044 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.636044 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.450266 ms (FindLiveObjects: 0.067466 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.344177 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652177 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.370577 ms (FindLiveObjects: 0.063066 ms CreateObjectMapping: 0.065511 ms MarkObjects: 0.218533 ms  DeleteObjects: 0.015155 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595955 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.437555 ms (FindLiveObjects: 0.066000 ms CreateObjectMapping: 0.033244 ms MarkObjects: 0.311422 ms  DeleteObjects: 0.018577 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.653155 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.519200 ms (FindLiveObjects: 0.065022 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.413600 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.704977 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.765111 ms (FindLiveObjects: 0.125644 ms CreateObjectMapping: 0.040577 ms MarkObjects: 0.560266 ms  DeleteObjects: 0.028355 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.676622 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.444888 ms (FindLiveObjects: 0.057688 ms CreateObjectMapping: 0.091911 ms MarkObjects: 0.267422 ms  DeleteObjects: 0.019066 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.742133 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.469333 ms (FindLiveObjects: 0.042533 ms CreateObjectMapping: 0.090444 ms MarkObjects: 0.322666 ms  DeleteObjects: 0.006355 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.799822 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.533377 ms (FindLiveObjects: 0.088488 ms CreateObjectMapping: 0.037644 ms MarkObjects: 0.377911 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711822 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.537288 ms (FindLiveObjects: 0.064044 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.416044 ms  DeleteObjects: 0.024444 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.804711 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.531422 ms (FindLiveObjects: 0.067466 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.423377 ms  DeleteObjects: 0.008311 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.727466 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.551466 ms (FindLiveObjects: 0.068444 ms CreateObjectMapping: 0.069911 ms MarkObjects: 0.384755 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.728933 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.493777 ms (FindLiveObjects: 0.041066 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.396000 ms  DeleteObjects: 0.023955 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642400 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.450755 ms (FindLiveObjects: 0.121733 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.290400 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.856044 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.562222 ms (FindLiveObjects: 0.091911 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.404800 ms  DeleteObjects: 0.021511 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.763644 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.608666 ms (FindLiveObjects: 0.042044 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.510400 ms  DeleteObjects: 0.024933 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.815955 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.567111 ms (FindLiveObjects: 0.046933 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.478133 ms  DeleteObjects: 0.007333 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.714266 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.538755 ms (FindLiveObjects: 0.108533 ms CreateObjectMapping: 0.039600 ms MarkObjects: 0.359822 ms  DeleteObjects: 0.022977 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563688 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.417511 ms (FindLiveObjects: 0.056711 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.308977 ms  DeleteObjects: 0.018577 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557333 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.522133 ms (FindLiveObjects: 0.063066 ms CreateObjectMapping: 0.039600 ms MarkObjects: 0.403822 ms  DeleteObjects: 0.006844 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629200 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.519688 ms (FindLiveObjects: 0.114400 ms CreateObjectMapping: 0.037644 ms MarkObjects: 0.342711 ms  DeleteObjects: 0.016622 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.711333 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.531911 ms (FindLiveObjects: 0.043511 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.431688 ms  DeleteObjects: 0.024933 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.858488 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.562222 ms (FindLiveObjects: 0.043511 ms CreateObjectMapping: 0.090444 ms MarkObjects: 0.413111 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.859466 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.551466 ms (FindLiveObjects: 0.111466 ms CreateObjectMapping: 0.037155 ms MarkObjects: 0.372533 ms  DeleteObjects: 0.022977 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.537288 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.515777 ms (FindLiveObjects: 0.060133 ms CreateObjectMapping: 0.045466 ms MarkObjects: 0.317777 ms  DeleteObjects: 0.083600 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.571022 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.900044 ms (FindLiveObjects: 0.082133 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.779777 ms  DeleteObjects: 0.013200 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698133 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.552444 ms (FindLiveObjects: 0.066977 ms CreateObjectMapping: 0.111466 ms MarkObjects: 0.345155 ms  DeleteObjects: 0.020044 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.693733 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.465911 ms (FindLiveObjects: 0.066488 ms CreateObjectMapping: 0.033733 ms MarkObjects: 0.334400 ms  DeleteObjects: 0.022977 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.648755 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.496222 ms (FindLiveObjects: 0.044488 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.410666 ms  DeleteObjects: 0.008800 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.818400 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.551466 ms (FindLiveObjects: 0.066000 ms CreateObjectMapping: 0.037155 ms MarkObjects: 0.419466 ms  DeleteObjects: 0.021511 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563688 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.487911 ms (FindLiveObjects: 0.059155 ms CreateObjectMapping: 0.045955 ms MarkObjects: 0.353466 ms  DeleteObjects: 0.019555 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.833555 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.731866 ms (FindLiveObjects: 0.076755 ms CreateObjectMapping: 0.028355 ms MarkObjects: 0.603777 ms  DeleteObjects: 0.014666 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.723555 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.502577 ms (FindLiveObjects: 0.090444 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.350533 ms  DeleteObjects: 0.015644 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580311 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.418977 ms (FindLiveObjects: 0.052311 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.314844 ms  DeleteObjects: 0.018088 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.696666 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.634577 ms (FindLiveObjects: 0.066977 ms CreateObjectMapping: 0.044977 ms MarkObjects: 0.501600 ms  DeleteObjects: 0.012222 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.548533 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.506488 ms (FindLiveObjects: 0.065511 ms CreateObjectMapping: 0.110488 ms MarkObjects: 0.306533 ms  DeleteObjects: 0.015155 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605733 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.462488 ms (FindLiveObjects: 0.061600 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.346622 ms  DeleteObjects: 0.018577 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.851155 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.511377 ms (FindLiveObjects: 0.045955 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.425822 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.559288 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.597911 ms (FindLiveObjects: 0.155466 ms CreateObjectMapping: 0.031777 ms MarkObjects: 0.377422 ms  DeleteObjects: 0.023955 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.534355 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.437555 ms (FindLiveObjects: 0.064533 ms CreateObjectMapping: 0.029333 ms MarkObjects: 0.308000 ms  DeleteObjects: 0.019555 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.542666 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.434622 ms (FindLiveObjects: 0.064533 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.328533 ms  DeleteObjects: 0.006844 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.687866 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.604266 ms (FindLiveObjects: 0.125155 ms CreateObjectMapping: 0.037155 ms MarkObjects: 0.410666 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.706933 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.594000 ms (FindLiveObjects: 0.045955 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.485466 ms  DeleteObjects: 0.029333 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.615511 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.498177 ms (FindLiveObjects: 0.042533 ms CreateObjectMapping: 0.084088 ms MarkObjects: 0.357377 ms  DeleteObjects: 0.005377 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.588133 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.513822 ms (FindLiveObjects: 0.107555 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.344666 ms  DeleteObjects: 0.016622 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.724044 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.601333 ms (FindLiveObjects: 0.062088 ms CreateObjectMapping: 0.046444 ms MarkObjects: 0.460044 ms  DeleteObjects: 0.024933 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.803244 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.540711 ms (FindLiveObjects: 0.027377 ms CreateObjectMapping: 0.023466 ms MarkObjects: 0.475200 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.666844 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.573466 ms (FindLiveObjects: 0.116355 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.392088 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.783200 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.535333 ms (FindLiveObjects: 0.038622 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.438044 ms  DeleteObjects: 0.025911 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558800 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.563200 ms (FindLiveObjects: 0.064533 ms CreateObjectMapping: 0.027866 ms MarkObjects: 0.457111 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546088 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.504533 ms (FindLiveObjects: 0.148622 ms CreateObjectMapping: 0.028844 ms MarkObjects: 0.301155 ms  DeleteObjects: 0.017111 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.728444 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.555377 ms (FindLiveObjects: 0.038622 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.459066 ms  DeleteObjects: 0.025422 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.541688 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.444888 ms (FindLiveObjects: 0.042533 ms CreateObjectMapping: 0.042533 ms MarkObjects: 0.345155 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.853111 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.638977 ms (FindLiveObjects: 0.156933 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.416533 ms  DeleteObjects: 0.020533 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.273066 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.902489 ms (FindLiveObjects: 0.048400 ms CreateObjectMapping: 0.044488 ms MarkObjects: 0.759244 ms  DeleteObjects: 0.041066 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.823777 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.563688 ms (FindLiveObjects: 0.062088 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.462488 ms  DeleteObjects: 0.007333 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745066 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.578355 ms (FindLiveObjects: 0.068444 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.443911 ms  DeleteObjects: 0.022488 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.737733 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.613066 ms (FindLiveObjects: 0.041066 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.513333 ms  DeleteObjects: 0.025911 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.697155 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.593511 ms (FindLiveObjects: 0.040577 ms CreateObjectMapping: 0.041555 ms MarkObjects: 0.494755 ms  DeleteObjects: 0.007333 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.889777 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.533377 ms (FindLiveObjects: 0.123688 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.349555 ms  DeleteObjects: 0.015644 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.824266 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.724533 ms (FindLiveObjects: 0.059155 ms CreateObjectMapping: 0.093866 ms MarkObjects: 0.537288 ms  DeleteObjects: 0.025422 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.771955 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.593022 ms (FindLiveObjects: 0.074311 ms CreateObjectMapping: 0.029822 ms MarkObjects: 0.473733 ms  DeleteObjects: 0.006355 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.739200 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.633600 ms (FindLiveObjects: 0.069911 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.498666 ms  DeleteObjects: 0.021511 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.581777 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.542666 ms (FindLiveObjects: 0.040577 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.442444 ms  DeleteObjects: 0.026888 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613066 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.604755 ms (FindLiveObjects: 0.046933 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.520177 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.814488 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.578355 ms (FindLiveObjects: 0.063555 ms CreateObjectMapping: 0.064533 ms MarkObjects: 0.420444 ms  DeleteObjects: 0.021511 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.570533 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.563688 ms (FindLiveObjects: 0.076266 ms CreateObjectMapping: 0.027866 ms MarkObjects: 0.432177 ms  DeleteObjects: 0.019066 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.586177 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.562711 ms (FindLiveObjects: 0.070888 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.404800 ms  DeleteObjects: 0.005866 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.166000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.592533 ms (FindLiveObjects: 0.155466 ms CreateObjectMapping: 0.033733 ms MarkObjects: 0.379377 ms  DeleteObjects: 0.016622 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.648266 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.507466 ms (FindLiveObjects: 0.037644 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.418000 ms  DeleteObjects: 0.020044 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.658533 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.649733 ms (FindLiveObjects: 0.041066 ms CreateObjectMapping: 0.090444 ms MarkObjects: 0.503066 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.669288 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.542666 ms (FindLiveObjects: 0.086044 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.394533 ms  DeleteObjects: 0.017111 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564177 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.521155 ms (FindLiveObjects: 0.061111 ms CreateObjectMapping: 0.084088 ms MarkObjects: 0.347600 ms  DeleteObjects: 0.019066 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.806666 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.540711 ms (FindLiveObjects: 0.043022 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.457111 ms  DeleteObjects: 0.008311 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.578355 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.597422 ms (FindLiveObjects: 0.050844 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.481555 ms  DeleteObjects: 0.021022 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.552933 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.536311 ms (FindLiveObjects: 0.062088 ms CreateObjectMapping: 0.091911 ms MarkObjects: 0.353955 ms  DeleteObjects: 0.019555 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.651200 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.588622 ms (FindLiveObjects: 0.069911 ms CreateObjectMapping: 0.089955 ms MarkObjects: 0.413111 ms  DeleteObjects: 0.005377 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.846266 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.576888 ms (FindLiveObjects: 0.097288 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.413111 ms  DeleteObjects: 0.021511 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.816933 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.577377 ms (FindLiveObjects: 0.039600 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.479111 ms  DeleteObjects: 0.024933 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.701066 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.670266 ms (FindLiveObjects: 0.072844 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.556844 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.850666 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.660488 ms (FindLiveObjects: 0.071866 ms CreateObjectMapping: 0.062088 ms MarkObjects: 0.497200 ms  DeleteObjects: 0.021511 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.713777 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.783688 ms (FindLiveObjects: 0.175022 ms CreateObjectMapping: 0.037155 ms MarkObjects: 0.546088 ms  DeleteObjects: 0.016133 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.819866 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.517733 ms (FindLiveObjects: 0.061111 ms CreateObjectMapping: 0.046444 ms MarkObjects: 0.382311 ms  DeleteObjects: 0.018577 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.590577 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.565644 ms (FindLiveObjects: 0.071866 ms CreateObjectMapping: 0.045955 ms MarkObjects: 0.433155 ms  DeleteObjects: 0.006355 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.832088 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.738711 ms (FindLiveObjects: 0.111955 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.561733 ms  DeleteObjects: 0.020533 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698133 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.682488 ms (FindLiveObjects: 0.055244 ms CreateObjectMapping: 0.078711 ms MarkObjects: 0.514311 ms  DeleteObjects: 0.025911 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623333 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.544622 ms (FindLiveObjects: 0.042533 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.461511 ms  DeleteObjects: 0.008311 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.815466 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.784666 ms (FindLiveObjects: 0.100222 ms CreateObjectMapping: 0.093377 ms MarkObjects: 0.560266 ms  DeleteObjects: 0.022000 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.590577 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.617466 ms (FindLiveObjects: 0.109511 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.448800 ms  DeleteObjects: 0.022977 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.718666 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.748000 ms (FindLiveObjects: 0.073822 ms CreateObjectMapping: 0.039111 ms MarkObjects: 0.618444 ms  DeleteObjects: 0.007822 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.843333 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.634088 ms (FindLiveObjects: 0.109511 ms CreateObjectMapping: 0.035688 ms MarkObjects: 0.461511 ms  DeleteObjects: 0.019555 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637511 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.513333 ms (FindLiveObjects: 0.059155 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.401377 ms  DeleteObjects: 0.018088 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.860933 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.704488 ms (FindLiveObjects: 0.046933 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.616977 ms  DeleteObjects: 0.008311 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.851644 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.685911 ms (FindLiveObjects: 0.066977 ms CreateObjectMapping: 0.036177 ms MarkObjects: 0.551955 ms  DeleteObjects: 0.021022 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.807155 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.714266 ms (FindLiveObjects: 0.084577 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.554400 ms  DeleteObjects: 0.029822 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.783200 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.670755 ms (FindLiveObjects: 0.043511 ms CreateObjectMapping: 0.041555 ms MarkObjects: 0.569066 ms  DeleteObjects: 0.008311 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665377 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.600844 ms (FindLiveObjects: 0.123688 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.416044 ms  DeleteObjects: 0.016622 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.769511 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.608666 ms (FindLiveObjects: 0.030311 ms CreateObjectMapping: 0.016622 ms MarkObjects: 0.528488 ms  DeleteObjects: 0.024933 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.544622 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.612088 ms (FindLiveObjects: 0.045955 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.528000 ms  DeleteObjects: 0.006355 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.954311 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.703022 ms (FindLiveObjects: 0.109022 ms CreateObjectMapping: 0.036666 ms MarkObjects: 0.527022 ms  DeleteObjects: 0.021022 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.583244 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.600355 ms (FindLiveObjects: 0.039600 ms CreateObjectMapping: 0.024933 ms MarkObjects: 0.510888 ms  DeleteObjects: 0.019066 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.664888 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.524088 ms (FindLiveObjects: 0.047911 ms CreateObjectMapping: 0.020044 ms MarkObjects: 0.441466 ms  DeleteObjects: 0.005377 ms)
+
+Level_01
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.591555 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 341.
+Total: 0.498666 ms (FindLiveObjects: 0.065511 ms CreateObjectMapping: 0.024444 ms MarkObjects: 0.382311 ms  DeleteObjects: 0.016622 ms)
+
+Lose
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.828666 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 0.730888 ms (FindLiveObjects: 0.039111 ms CreateObjectMapping: 0.025422 ms MarkObjects: 0.633600 ms  DeleteObjects: 0.025911 ms)
+
+Start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.656577 ms
+Duplciated Music Player destroyed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 192.
+Total: 0.640444 ms (FindLiveObjects: 0.046444 ms CreateObjectMapping: 0.023955 ms MarkObjects: 0.553911 ms  DeleteObjects: 0.008311 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
